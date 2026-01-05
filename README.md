@@ -6,7 +6,7 @@ The laboratories are categorized by functional domain, following the official Ci
 
 01. **Network Fundamentals**  
 Basic connectivity, IPv4 addressing, VLSM, and initial device hardening.  
-> [!IMPORTANT] Key implementations: SSH access, line security, interface management, and OSI model flow analysis.
+[!IMPORTANT] Key implementations: SSH access, line security, interface management, and OSI model flow analysis.
 
 02. **Ethernet Switching**  
 Layer 2 technologies focusing on loop prevention and logical segmentation.
