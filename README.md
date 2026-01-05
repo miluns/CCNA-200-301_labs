@@ -1,7 +1,7 @@
 # CCNA 200-301 Laboratory Portfolio
 Technical implementation of CCNA 200-301 laboratory scenarios. Focused on L2/L3 architecture, protocol analysis, and network redundancy. Includes Cisco IOS configurations for OSPF, STP/LACP, HSRP and core infrastructure protocols.
 
-# Project Structure
+## Project Structure
 The laboratories are categorized by functional domain, following the official Cisco exam blueprint. Each directory contains the .pkt source file and, where applicable, exported device configurations in plain text.
 
 01. Network Fundamentals
@@ -36,11 +36,11 @@ Deployment includes PortFast and BPDU Guard for access layer protection.
 Verification: show etherchannel summary, show spanning-tree.
 Location: 02-Ethernet-Switching/Lab23_EtherChannel
 
-# Technical Specifications
+## Technical Specifications
 - Environment: Cisco Packet Tracer 8.2+
 - Documentation: Device running-configs are provided in .ios or .txt format for accessibility without the simulator.
 - Focus: Security (ACLs/Port-Security), Scalability (VLSM/OSPF), and Reliability (FHRP/STP).
 
-# Usage
+## Usage
 
 To review a specific configuration without opening Packet Tracer:
