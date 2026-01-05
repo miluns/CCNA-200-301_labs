@@ -9,7 +9,7 @@ Basic connectivity, IPv4 addressing, VLSM, and initial device hardening.
 *Key implementations:* SSH access, line security, interface management, and OSI model flow analysis.
 
 02. **Ethernet Switching**  
-Layer 2 technologies focusing on loop prevention and logical segmentation.  
+Layer 2 technologies focusing on loop prevention and logical segmentation.
 - Key implementations: VLAN/Trunking (802.1Q), VTP/DTP, STP (802.1D) tuning, Rapid-PVST+, and LACP EtherChannel.
 
 03. **IP Routing & Services**  
