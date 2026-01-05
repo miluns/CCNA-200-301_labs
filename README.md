@@ -20,7 +20,7 @@ Advanced Layer 3 configurations, dynamic routing protocols, and redundancy.
 Migration and configuration of IPv6 networks.
 -Key implementations: IPv6 SLAAC, Stateful DHCPv6, and IPv6 Static/Default routing.
 
-# Featured Implementation: Redundant Enterprise Network
+# Featured Implementation:
 -Redundant Enterprise Network (Lab 29)
 The scenario demonstrates a resilient network architecture integrating multi-area OSPFv2 for scalable reachability, HSRP for high availability, and EtherChannel for increased bandwidth with STP path cost tuning.
 Verification: show standby brief, show ip ospf neighbor, show ip route.
