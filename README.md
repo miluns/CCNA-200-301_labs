@@ -27,7 +27,8 @@ Verification: show standby brief, show ip ospf neighbor, show ip route.
 Location: 03-IP-Routing-Services/Lab29_HSRP
 
 - Multi-Area OSPF Scalability (Lab 28)
-This implementation focuses on hierarchical OSPFv2 design to optimize SPF calculations and routing table size.   Includes backbone/non-backbone area management and path selection tuning through manual cost adjustments.  Verification: show ip ospf database, show ip protocols.  
+This implementation focuses on hierarchical OSPFv2 design to optimize SPF calculations and routing table size.   Includes backbone/non-backbone area management and path selection tuning through manual cost adjustments.  
+Verification: show ip ospf database, show ip protocols.  
 Location: 03-IP-Routing-Services/Lab28_OSPF_Part3
 
 - Layer 2 Convergence and Aggregation (Lab 23)
