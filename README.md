@@ -4,7 +4,7 @@ Technical implementation of CCNA 200-301 laboratory scenarios. Focused on L2/L3 
 ## Project Structure
 The laboratories are categorized by functional domain, following the official Cisco exam blueprint. Each directory contains the .pkt source file and, where applicable, exported device configurations in plain text.
 
-01. Network Fundamentals
+01. ### Network Fundamentals
 Basic connectivity, IPv4 addressing, VLSM, and initial device hardening.  
 **Key implementations:** SSH access, line security, interface management, and OSI model flow analysis.
 
@@ -31,7 +31,7 @@ This implementation focuses on hierarchical OSPFv2 design to optimize SPF calcul
 **Verification:** show ip ospf database, show ip protocols.  
 **Location:** 03-IP-Routing-Services/Lab28_OSPF_Part3
 
-- Layer 2 Convergence and Aggregation (Lab 23)  
+- ### Layer 2 Convergence and Aggregation (Lab 23)  
 Emphasis on LAN stability through LACP (802.3ad) link bundling and Rapid-PVST+ for sub-second convergence.  
 Deployment includes PortFast and BPDU Guard for access layer protection.  
 **Verification:** show etherchannel summary, show spanning-tree.  
