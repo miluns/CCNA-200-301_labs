@@ -16,7 +16,7 @@ Layer 2 technologies focusing on loop prevention and logical segmentation.
 Advanced Layer 3 configurations, dynamic routing protocols, and redundancy.
 -Key implementations: OSPFv2 (Multi-area), EIGRP, Floating Static Routes, HSRP (First Hop Redundancy), and DHCP Server/Relay.
 
-04. IPv6 Fundamentals
+04.  IPv6 Fundamentals
 Migration and configuration of IPv6 networks.
 -Key implementations: IPv6 SLAAC, Stateful DHCPv6, and IPv6 Static/Default routing.
 
