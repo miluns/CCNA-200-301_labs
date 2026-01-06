@@ -43,5 +43,11 @@ Deployment includes PortFast and BPDU Guard for access layer protection.
 - Focus: Security (ACLs/Port-Security), Scalability (VLSM/OSPF), and Reliability (FHRP/STP).
 
 ## Usage
-
 To review a specific configuration without opening Packet Tracer:
+1. Navigate to the specific category and lab directory.
+2. Open the .ios files to inspect the Cisco IOS running-configurations directly in your browser.
+
+To run the full simulations:
+1. Ensure Cisco Packet Tracer 8.2 or newer is installed.
+2. Download the .pkt file from the desired directory.
+3. Open the file to interact with the live topology and verify protocol states via CLI.
