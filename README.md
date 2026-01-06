@@ -29,7 +29,7 @@ The scenario demonstrates a resilient network architecture integrating multi-are
 - **Multi-Area OSPF Scalability (Lab 28)**  
 This implementation focuses on hierarchical OSPFv2 design to optimize SPF calculations and routing table size.   Includes backbone/non-backbone area management and path selection tuning through manual cost adjustments.  
 **Verification:** show ip ospf database, show ip protocols.  
-**Location:** 03-IP-Routing-Services/Lab28_OSPF_Part3
+**Location:** 03-IP-Routing-Services/Lab28_OSPF_MultiArea
 
 - **Layer 2 Convergence and Aggregation (Lab 23)**  
 Emphasis on LAN stability through LACP (802.3ad) link bundling and Rapid-PVST+ for sub-second convergence.  
