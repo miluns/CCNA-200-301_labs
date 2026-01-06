@@ -39,7 +39,7 @@ Deployment includes PortFast and BPDU Guard for access layer protection.
 
 ## Technical Specifications
 - Environment: Cisco Packet Tracer 8.2+
-- Documentation: Device running-configs are provided in .ios or .txt format for accessibility without the simulator.
+- Documentation: Device running-configs are provided in .ios format for accessibility without the simulator.
 - Focus: Security (ACLs/Port-Security), Scalability (VLSM/OSPF), and Reliability (FHRP/STP).
 
 ## Usage
