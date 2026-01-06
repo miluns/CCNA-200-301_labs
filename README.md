@@ -29,7 +29,7 @@ The scenario demonstrates a resilient network architecture integrating multi-are
 - **Multi-Area OSPF Scalability (Lab 28)**  
 This implementation focuses on hierarchical OSPFv2 design to optimize SPF calculations and routing table size.   Includes backbone/non-backbone area management and path selection tuning through manual cost adjustments.  
 **Verification:** show ip ospf database, show ip protocols.  
-**Location:** 03-IP-Routing-Services/Lab28_OSPF_Part3
+**Location:** 03-IP-Routing-Services/Lab28_OSPF_MultiArea
 
 - **Layer 2 Convergence and Aggregation (Lab 23)**  
 Emphasis on LAN stability through LACP (802.3ad) link bundling and Rapid-PVST+ for sub-second convergence.  
@@ -43,5 +43,11 @@ Deployment includes PortFast and BPDU Guard for access layer protection.
 - Focus: Security (ACLs/Port-Security), Scalability (VLSM/OSPF), and Reliability (FHRP/STP).
 
 ## Usage
-
 To review a specific configuration without opening Packet Tracer:
+1. Navigate to the specific category and lab directory.
+2. Open the .ios files to inspect the Cisco IOS running-configurations directly in your browser.
+
+To run the full simulations:
+1. Ensure Cisco Packet Tracer 8.2 or newer is installed.
+2. Download the .pkt file from the desired directory.
+3. Open the file to interact with the live topology and verify protocol states via CLI.
